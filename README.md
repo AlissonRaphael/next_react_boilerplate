@@ -1,6 +1,6 @@
 # Next.js/ReactJS Boilerplate
 
-[![GitHub](https://img.shields.io/github/license/alissonraphael/next_react_boilerplate)](https://github.com/AlissonRaphael/statistics_for_data_science_and_machine_learning/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/alissonraphael/next_react_boilerplate)](https://github.com/AlissonRaphael/next_react_boilerplate/blob/main/LICENSE)
 
 This repository contains the configuration files for starting projects with Next.js and ReactJS. Includes test setup with Storybook and Jest and code standardization / formatting with Prettier and ESLint.
 
